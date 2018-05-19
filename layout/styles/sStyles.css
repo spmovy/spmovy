@@ -1,0 +1,14 @@
+@charset "utf-8";
+.styled-select.slate {
+	background: url(/WebContent/images/demo/selectbtn.jpg) no-repeat right
+		center;
+	height: 34px;
+	width: 240px;
+}
+
+.styled-select.slate select {
+	border: 1px solid #ccc;
+	font-size: 16px;
+	height: 34px;
+	width: 268px;
+}
